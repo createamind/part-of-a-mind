@@ -17,6 +17,7 @@ Disentangling Nonlinear Perceptual Embeddings With Multi-Query Triplet Networks 
 
 #VQA
 https://github.com/abhshkdz/neural-vqa
+https://github.com/VT-vision-lab/VQA_LSTM_CNN
 
 #resnet
 
@@ -37,11 +38,13 @@ https://github.com/pondruska/DeepTracking
 
 
 #control arm move
-
+Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection   1603.02199v3
 
 #neural style
 https://github.com/awentzonline/image-analogies
 https://github.com/Teaonly/easyStyle
 https://github.com/jcjohnson/neural-style
 https://github.com/alexjc/neural-doodle
+https://github.com/yusuketomoto/chainer-fast-neuralstyle
+
 
