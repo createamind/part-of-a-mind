@@ -1,6 +1,6 @@
 # part-of-a-mind
 
-#unsupervised
+#unsupervised  segmentation
 https://github.com/viorik/ConvLSTM
 
 #DQN  NTM
@@ -20,7 +20,7 @@ https://github.com/abhshkdz/neural-vqa
 https://github.com/VT-vision-lab/VQA_LSTM_CNN
 
 #resnet
-
+https://github.com/KaimingHe/deep-residual-networks
 
 #GAN
 https://github.com/carpedm20/DCGAN-tensorflow
@@ -35,6 +35,7 @@ https://github.com/willwhitney/understanding-visual-concepts
 
 #tracking
 https://github.com/pondruska/DeepTracking
+https://github.com/jbhuang0604/CF2
 
 
 #control arm move
