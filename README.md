@@ -37,6 +37,9 @@ https://github.com/willwhitney/understanding-visual-concepts
 https://github.com/pondruska/DeepTracking
 https://github.com/jbhuang0604/CF2
 
+#location cnn
+https://github.com/jazzsaxmafia/Weakly_detector
+
 
 #control arm move
 Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection   1603.02199v3
