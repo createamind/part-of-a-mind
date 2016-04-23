@@ -5,6 +5,8 @@ https://github.com/viorik/ConvLSTM  STN
 
 Delving Deeper into Convolutional Networks for Learning Video Representations 1511.06432v4
 
+Generating Images with Perceptual Similarity Metrics based on Deep Networks
+
 
 #DQN  NTM
 https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano
