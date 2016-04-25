@@ -1,11 +1,11 @@
 # part-of-a-mind
 
-#unsupervised  segmentation video moton gan  ----  video+gan
-https://github.com/viorik/ConvLSTM  STN
+#unsupervised  segmentation video moton   ----  video+gan
+https://github.com/viorik/ConvLSTM  
 
 Delving Deeper into Convolutional Networks for Learning Video Representations 1511.06432v4
 
-Generating Images with Perceptual Similarity Metrics based on Deep Networks
+
 
 
 #DQN  NTM
@@ -16,10 +16,15 @@ https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano
 Ask Me Anything- Dynamic Memory Networks for Natural Language Processing  1506.07285v5
 
 
-#vision  Bayesian
+#vision  Bayesian gan
 Attend, Infer, Repeat- Fast Scene Understanding with Generative Models  1603.08575v1
 
 Disentangling Nonlinear Perceptual Embeddings With Multi-Query Triplet Networks 1603.07810v1
+
+One-Shot Generalization in Deep Generative Models
+
+Generating Images with Perceptual Similarity Metrics based on Deep Networks
+
 
 #VQA
 https://github.com/abhshkdz/neural-vqa
